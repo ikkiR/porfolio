@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ikkiR/porfolio/static/css/main.3aec123d.css",
-    "main.js": "/ikkiR/porfolio/static/js/main.0a0ec188.js",
-    "static/js/453.d466657a.chunk.js": "/ikkiR/porfolio/static/js/453.d466657a.chunk.js",
-    "static/media/devicon.svg?iehcku": "/ikkiR/porfolio/static/media/devicon.de33ff67547800466a48.svg",
-    "static/media/Captura-Pixel-games.PNG": "/ikkiR/porfolio/static/media/Captura-Pixel-games.0f12aeda88a8707a5bc8.PNG",
-    "static/media/devicon.woff?iehcku": "/ikkiR/porfolio/static/media/devicon.25bdb9cbf8e5f9b4dde9.woff",
-    "static/media/devicon.ttf?iehcku": "/ikkiR/porfolio/static/media/devicon.161b6f3376d6ce5c517d.ttf",
-    "static/media/Pagina-inicial.svg": "/ikkiR/porfolio/static/media/Pagina-inicial.532477a2efeaeafbe87553d286a45f26.svg",
-    "static/media/curriculo-final.pdf": "/ikkiR/porfolio/static/media/curriculo-final.139b931cfa99b77203bc.pdf",
-    "static/media/minha-imagem-editada.jpeg": "/ikkiR/porfolio/static/media/minha-imagem-editada.d33f17282fc22965b354.jpeg",
-    "static/media/captura-Api-TooList.PNG": "/ikkiR/porfolio/static/media/captura-Api-TooList.e122fa32704fd4c45e59.PNG",
-    "static/media/imagem-chamado.jpg": "/ikkiR/porfolio/static/media/imagem-chamado.39d62db09e1aa44e2001.jpg",
-    "index.html": "/ikkiR/porfolio/index.html",
-    "main.3aec123d.css.map": "/ikkiR/porfolio/static/css/main.3aec123d.css.map",
-    "main.0a0ec188.js.map": "/ikkiR/porfolio/static/js/main.0a0ec188.js.map",
-    "453.d466657a.chunk.js.map": "/ikkiR/porfolio/static/js/453.d466657a.chunk.js.map"
+    "main.css": "/porfolio/static/css/main.eae55f7d.css",
+    "main.js": "/porfolio/static/js/main.f936b375.js",
+    "static/js/453.d466657a.chunk.js": "/porfolio/static/js/453.d466657a.chunk.js",
+    "static/media/devicon.svg?iehcku": "/porfolio/static/media/devicon.de33ff67547800466a48.svg",
+    "static/media/Captura-Pixel-games.PNG": "/porfolio/static/media/Captura-Pixel-games.0f12aeda88a8707a5bc8.PNG",
+    "static/media/devicon.woff?iehcku": "/porfolio/static/media/devicon.25bdb9cbf8e5f9b4dde9.woff",
+    "static/media/devicon.ttf?iehcku": "/porfolio/static/media/devicon.161b6f3376d6ce5c517d.ttf",
+    "static/media/Pagina-inicial.svg": "/porfolio/static/media/Pagina-inicial.532477a2efeaeafbe87553d286a45f26.svg",
+    "static/media/curriculo-final.pdf": "/porfolio/static/media/curriculo-final.139b931cfa99b77203bc.pdf",
+    "static/media/minha-imagem-editada.jpeg": "/porfolio/static/media/minha-imagem-editada.d33f17282fc22965b354.jpeg",
+    "static/media/captura-Api-TooList.PNG": "/porfolio/static/media/captura-Api-TooList.e122fa32704fd4c45e59.PNG",
+    "static/media/imagem-chamado.jpg": "/porfolio/static/media/imagem-chamado.39d62db09e1aa44e2001.jpg",
+    "index.html": "/porfolio/index.html",
+    "main.eae55f7d.css.map": "/porfolio/static/css/main.eae55f7d.css.map",
+    "main.f936b375.js.map": "/porfolio/static/js/main.f936b375.js.map",
+    "453.d466657a.chunk.js.map": "/porfolio/static/js/453.d466657a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3aec123d.css",
-    "static/js/main.0a0ec188.js"
+    "static/css/main.eae55f7d.css",
+    "static/js/main.f936b375.js"
   ]
 }
